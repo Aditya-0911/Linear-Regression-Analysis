@@ -1,5 +1,7 @@
 # Linear Regression with Coefficient Analysis with Python
 
+![Linear Regression](https://www.simplilearn.com/ice9/free_resources_article_thumb/best-fit-line.gif)
+
 ## Table of Contents
 
 - [Overview](#overview)
