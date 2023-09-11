@@ -44,6 +44,7 @@ The Credit dataset provided by ISL (Introduction to Statistical Learning) serves
 
 **Access the Credit Dataset:**
 - You can download the [Credit dataset](https://www.statlearning.com/resources-python) from the ISL website.
+- You can also get the dataset provided in the repository 
 
 The Credit dataset from ISL provides a valuable hands-on experience for individuals learning about data analysis, machine learning, and credit risk assessment. It demonstrates how real-world datasets can be used to make informed decisions and manage risk effectively in financial applications.
 
