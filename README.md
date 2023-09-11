@@ -9,7 +9,10 @@
 
 ## Overview
 
-This Python script performs linear regression analysis with coefficient insights. It's designed for ease of use, taking a CSV dataset and user-defined regression equation as input. The script calculates regression coefficients, p-values, R-squared, and adjusted R-squared, offering valuable insights into relationships between variables.
+This Python script performs linear regression analysis with coefficient insights. It's designed for ease of use, taking a CSV dataset and user-defined regression equation as input. The script calculates regression coefficients, p-values, R-squared, and adjusted R-squared, offering valuable insights into relationships between variables.  
+The equation used in calculating coefficients is known as Normal Equation for Linear Regression
+
+![Normal Equation for Linear Regression](https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-1-10.png)
 
 ## How to Use
 
